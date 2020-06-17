@@ -1,0 +1,38 @@
+.navbar-white {
+    background-color: white!important;
+    color: black;
+}
+
+.navbar-toggler {
+    border: 1px solid black!important;
+}
+
+.fa-robot:hover {
+    color: #5B86E5;
+}
+
+.nav-item > a {
+    color: black!important;
+}
+
+.nav-item > a:hover {
+    color: grey!important;
+}
+
+.navbar-white > a {
+    color: black!important;
+}
+
+h1 {
+    font-size: 4em;
+    background: #43c6ac; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #43c6ac, #191654); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #43c6ac, #191654); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.header-text {
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgba(0,0,0,0);
+}
+
