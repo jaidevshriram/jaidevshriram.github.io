@@ -25,4 +25,4 @@ I'm a CSE Junior at <a href="iiit.ac.in" target="_blank">IIIT-Hyderabad</a> work
 
 I began exploring computer vision because of the mixed reality 
 
-At IIIT, I'm  serve as the Chief Editor of Ping!, the independent student media body.
+At IIIT, I serve as the Chief Editor of <a href="https://pingiiit.org" target="_blank">Ping!</a>, the independent student media body (since mid-2019). I've also been a part of the Entreprenurship Cell as a web developer and logistics team member. 
