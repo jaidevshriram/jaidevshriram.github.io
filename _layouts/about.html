@@ -19,17 +19,17 @@ layout: default
   </header>
 
   <article>
-    <div class="row">
-      <div class="col-12 col-md-8">
+    <div class="row pt-3">
+      <div class="col-12 col-sm-8">
         {{ content }}
       </div>
         {% if page.profile %}
-        <div class="profile col-12 col-md-4 justify-content-end {% if page.profile.align == 'left' %}order-first{% endif %}">
+        <div class="profile col-12 col-sm-4 justify-content-end {% if page.profile.align == 'left' %}order-first{% endif %}">
           {% if page.profile.image %}
             <img class="img-fluid z-depth-1 rounded " src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
           {% endif %}
           {% if page.profile.socials %}
-            <div class="socials">
+            <div class="socials pt-3">
               {{ page.profile.socials }}
             </div>
           {% endif %}

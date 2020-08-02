@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   socials: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+    <p>Undergraduate researcher at Robotics Research Center, IIIT-H</P>
+    <i class="fa fa-github-alt" aria-hidden="true"></i> <a class="font-weight-bold mx-1" href="github.com/JAIDEV123">Github</a> <br/>
+    <i class="fab fa-linkedin"></i> <a class="font-weight-bold mx-1" href="https://in.linkedin.com/in/jaidev-shriram">LinkedIn</a> <br/>
+    <i class="fas fa-envelope"></i> <a class="font-weight-bold mx-1" href="mailto:jaidev.shriram@students.iiit.ac.in">Mail</a>
 news: true
 social: true
 ---
