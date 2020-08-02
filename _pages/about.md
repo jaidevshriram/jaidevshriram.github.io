@@ -8,13 +8,18 @@ profile:
   align: right
   image: prof_pic.jpg
   socials: >
-    <p>Undergraduate researcher at Robotics Research Center, IIIT-H</P>
+    <p>Undergraduate researcher at <a href="https://robotics.iiit.ac.in/">Robotics Research Center, IIIT-H</a></p>
     <i class="fa fa-github-alt" aria-hidden="true"></i> <a class="font-weight-bold mx-1" href="github.com/JAIDEV123">Github</a> <br/>
     <i class="fab fa-linkedin"></i> <a class="font-weight-bold mx-1" href="https://in.linkedin.com/in/jaidev-shriram">LinkedIn</a> <br/>
+    <i class="fas fa-file-alt"></i> <a class="font-weight-bold mx-1" href="#">Resumé</a> <br/>
     <i class="fas fa-envelope"></i> <a class="font-weight-bold mx-1" href="mailto:jaidev.shriram@students.iiit.ac.in">Mail</a>
-news: true
-social: true
+    <hr/>
+blog: true
+news: false
+social: false
 ---
+
+<h3 class="mb-5"><span class="badge badge-light mx-1 ml-sm-0">Deep Learning</span><span class="badge badge-light mx-1">Computer Vision</span><span class="badge badge-light mx-1">Mixed Reality</span></h3>
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
