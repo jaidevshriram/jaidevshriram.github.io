@@ -10,6 +10,8 @@ authors:
   - name: Pranav Tadimeti
 ---
 
+<em>Originally published in <a href="https://pingiiit.org/2020/08/diversity-pool/">Ping! - student magazine at IIIT-H</a>.</em>
+
 Once the current situation boils over, there is likely going to be a push worldwide to restore the status quo. Nothing could be worse for the world than a rushed attempt to return to the past, without acknowledging the difficulties and hurdles that entire communities braved through to date. With the pandemic came a string of changes that were forced on all, a complete shift in our perception of how various activities could be carried out. We became tuned to the need for social interaction, realized what meetings truly could’ve just been messages, and above all broke the monotony of our regular life. The same monotony that has defined how we carry out the day to day has also suppressed critique over why our routines exist to begin with. The hidden silver lining, for those who intend to emerge from this, is that the COVID pandemic has offered several the room to analyze and rethink their activities. For us at IIIT, the pandemic turned our entire academic system upside down in nearly every sense. Examinations were cancelled for all, attendance was ignored, grading was relaxed extremely with even Pass/Fail as an option! A student in 2019 would have considered these to be unimaginable under standard circumstances. Here, we speculate about the future for IIIT post-pandemic, drawing from the lessons that this academic year has taught us.
 
 ## What if we could P* everything? And Other Considerations
