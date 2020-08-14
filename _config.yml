@@ -5,7 +5,7 @@
 title: Jaidev Shriram
 email: jaidevtrumpet@gmail.com
 description: > # this means to ignore newlines until "url:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Jaidev Shriram is a student at IIIT Hyderabad and an undergraduate researcher at Robotics Research Center, IIIT-H.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
@@ -28,7 +28,7 @@ footer_fixed: false
 # To achieve this, change serve_og_meta to true and then provide the URL of the
 # preview image as the value of og_image.
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image:  # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -46,9 +46,9 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Contact me by email to get a quick response.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-204734622 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -75,7 +75,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
     output: true

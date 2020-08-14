@@ -7,7 +7,7 @@ importance: 3
 ---
 
 
-As per of the 'Design and Analysis of Software Systems' course, my team of four worked with subtl.ai - a startup at CIE - IIIT Hyderabad. After extensive discussions with the subtl.ai team, we prototyped and iterated through many versions of the product, as per their requirements.
+As part of the 'Design and Analysis of Software Systems' course, my team of four worked with subtl.ai - a startup at CIE - IIIT Hyderabad. After extensive discussions with the subtl.ai team, we prototyped and iterated through many versions of the product, as per their requirements.
 
 The final product had 
 
