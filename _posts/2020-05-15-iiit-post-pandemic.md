@@ -2,7 +2,7 @@
 layout: distill
 title: What if …? Considerations For a IIIT Post Pandemic
 description: The pandemic changed things for better or worse. What lessons can we learn from these?
-date: 2020-08-09
+date: 2020-05-15
 
 authors:
   - name: Jaidev Shriram
