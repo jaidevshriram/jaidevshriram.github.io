@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: page
 permalink: /publications/
 title: publications
-description: publications by categories in reversed chronological order.
+description: Publications listed in reversed chronological order.
 years: [2021]
 nav: true
 ---
@@ -14,4 +14,4 @@ nav: true
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-</div> -->
+</div>
