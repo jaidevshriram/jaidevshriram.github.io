@@ -11,7 +11,7 @@ profile:
     <p>Undergraduate researcher at <a href="https://robotics.iiit.ac.in/">Robotics Research Center, IIIT-H</a></p>
     <i class="fa fa-github-alt" aria-hidden="true"></i> <a class="font-weight-bold mx-1" href="https://github.com/jaidevshriram">Github</a> <br/>
     <i class="fab fa-linkedin"></i> <a class="font-weight-bold mx-1" href="https://in.linkedin.com/in/jaidev-shriram">LinkedIn</a> <br/>
-    <i class="fas fa-file-alt"></i> <a class="font-weight-bold mx-1" href="#"> Resumé</a> <br/>
+    <i class="fas fa-file-alt"></i> <a class="font-weight-bold mx-1" href="assets/pdf/Jaidev_AcademicCV.pdf"> Resumé</a> <br/>
     <i class="fas fa-envelope"></i> <a class="font-weight-bold mx-1" href="mailto:jaidev.shriram@students.iiit.ac.in">Mail</a>
     <hr/>
 blog: true
