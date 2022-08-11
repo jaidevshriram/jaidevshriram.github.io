@@ -21,10 +21,10 @@ social: false
 
 <h3 class="mb-5 visible-sm"><span class="badge badge-light mx-1 ml-sm-0">Robotics</span><span class="badge badge-light mx-1">Computer Vision</span><span class="badge badge-light mx-1">Music</span></h3>
 
-I'm a MS CS Student at UC, San Diego. I graduated with a BTech in CSE from <a href="iiit.ac.in" target="_blank">IIIT-Hyderabad</a> in 2018. There, I had the privelege to working on robotic vision research at the <a href="https://robotics.iiit.ac.in/" target="_blank">Robotics Research Center</a>, under the supervision of <a href="https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ" target="_blank">Dr. K Madhava Krishna</a>. 
+I'm a MS CS Student at UC, San Diego. I graduated with a BTech in CSE from <a href="iiit.ac.in" target="_blank">IIIT-Hyderabad</a> in 2018. There, I had the privilege to work on robotic vision research at the <a href="https://robotics.iiit.ac.in/" target="_blank">Robotics Research Center</a>, under the supervision of <a href="https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ" target="_blank">Dr. K Madhava Krishna</a>. 
 
 I've also been forunate to work with Prof. Makarand Tapaswi and Prof. Vinoo Alluri on a unique project to generate soundtracks for books based on their movie adaptation using techniques in vision and language processing. I have also briefly worked with Prof. Vinoo Alluri previously on a project in Music Cognition to analyse correlation between structure in songs and listener preferences.
 
-In the summer of 2021, I also interned with Prof. Derek Reilly at the <a href="https://gem.cs.dal.ca/" target="_blank">Graphics and Experiential Media (GEM) Lab</a> at Dalhousie University via the MITACS Globalink Program on building navigation rules for non-playable characters in augmented reality stories using spatial attributes.
+In the summer of 2021, I also interned with Prof. Derek Reilly at the <a href="https://gem.cs.dal.ca/" target="_blank">Graphics and Experiential Media (GEM) Lab</a> at Dalhousie University via the MITACS Globalink Program to build navigation rules for non-playable characters in augmented reality stories using spatial attributes.
 
 At IIIT, I have also served as the Chief Editor of <a href="https://pingiiit.org" target="_blank">Ping!</a>, the independent student media body (2019-21). I've also been a part of the Entreprenurship Cell as a web developer and logistics team member.
