@@ -4,6 +4,10 @@
 
 // Typography
 
+a, table.table a { color: #000000; background: linear-gradient(-45deg, #be0f99, #0e45bd, #23a6d5); background-size: 400% 400%; animation: gradient 15s ease infinite; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+a:hover, table.table a:hover { color: #000000; text-decoration: underline; }
+a:hover:after, table.table a:hover:after { width: 100%; }
+
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
@@ -18,17 +22,6 @@ table {
   }
   td {
     font-size: 1rem;
-  }
-}
-
-a, table.table a {
-  color: var(--global-theme-color);
-  &:hover {
-    color: var(--global-theme-color);
-    text-decoration: underline;
-  }
-  &:hover:after :not(.nav-item.dropdown) {
-    width: 100%;
   }
 }
 
@@ -138,7 +131,7 @@ blockquote {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 1px solid var(--global-divider-color);
+  // border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
 }
@@ -163,26 +156,31 @@ blockquote {
     }
 }
 .navbar.navbar-light {
-  a {
-    &:hover {
-      text-decoration: none;
-    }
-  }
+
   .navbar-brand {
     color: var(--global-text-color);
+    &:hover {
+      text-decoration: underline;
+      text-decoration-color: black;
+    }
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
     &:hover {
       color: var(--global-hover-color);
+      text-decoration: underline;
+      text-decoration-color: black;
     }
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
       font-weight: bolder;
+      text-decoration: underline;
       color: var(--global-theme-color);
       &:hover {
         color: var(--global-hover-color);
+        text-decoration: underline;
+        text-decoration-color: black;
       }
   }
   .navbar-brand.social {
@@ -711,4 +709,16 @@ progress {
      width: 0%;
      display: block;
      height: inherit;
+ }
+
+ .highlight {
+  display: inline-block;
+  // line-height: 0em;
+  // padding-bottom: 1em;
+  background-color: #caecf1;
+  // font-weight: bold;
+ }
+
+ body {
+  overflow-x: hidden;
  }

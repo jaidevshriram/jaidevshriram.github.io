@@ -1,0 +1,10 @@
+---
+layout: page
+title: Wikipedia Search Engine
+description: Developed a highly efficient search engine for Wikipedia articles, returning results in < 1 second for 80GB of XML
+img: assets/img/12.jpg
+importance: 1
+category: language
+color: rgb(0, 80, 100)
+redirect: https://github.com/jaidevshriram/Wikipedia-Search-Engine/
+---

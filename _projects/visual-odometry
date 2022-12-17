@@ -1,0 +1,10 @@
+---
+layout: page
+title: Visual Odometry
+description: Successfully reconstructed 3D environment from a moving car using just a monocular video stream, on KITTI dataset. Triangulated image pairs for depth estimation with ICP and PnP for accurate pose estimation
+img: assets/img/12.jpg
+importance: 2
+category: robotics
+color: rgb(25, 0, 150)
+redirect: https://github.com/jaidevshriram/Vision-Robotics-Algorithms
+---

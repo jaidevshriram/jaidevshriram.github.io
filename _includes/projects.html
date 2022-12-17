@@ -2,15 +2,16 @@
 <div class="grid-sizer"></div>
 <div class="grid-item">
   {% if project.redirect -%}
-  <a href="{{ project.redirect }}">
+  <div onclick="window.open('{{ project.redirect }}', '_blank')">
     {%- else -%}
-    <a href="{{ project.url | relative_url }}">
+    <div onclick="location.href = '{{ project.url | relative_url }}'">
       {%- endif %}
       <div class="card hoverable">
         {%- if project.img %}
-        {%- include figure.html
+        {%- include figure_post.html
           path=project.img
-          alt="project thumbnail" -%}
+          alt="&#32;&#160;" 
+          color=project.color -%}
         {%- endif %}
         <div class="card-body">
           <h2 class="card-title text-lowercase">{{ project.title }}</h2>
@@ -32,5 +33,5 @@
           </div>
         </div>
       </div>
-    </a>
+    </div>
 </div>

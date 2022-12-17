@@ -1,0 +1,10 @@
+---
+layout: page
+title: Key-Value Storage
+description: Built a compressed trie with memory optimizations for key-value API transactions
+img: assets/img/12.jpg
+importance: 1
+category: software
+color: rgb(0, 50, 225)
+redirect: https://github.com/jaidevshriram/Efficient-Key-Value-Storage-API
+---

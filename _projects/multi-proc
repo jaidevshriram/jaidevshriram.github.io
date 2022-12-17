@@ -1,0 +1,10 @@
+---
+layout: page
+title: Multiproc Syncing
+description: Several synchronization and locking techniques for multi-process and multi-thread applications using mutex locks and semaphores
+img: assets/img/12.jpg
+importance: 1
+category: software
+color: rgb(100, 200, 255)
+redirect: https://github.com/jaidevshriram/Operating-Systems/tree/master/Assignments/4
+---

@@ -1,0 +1,10 @@
+---
+layout: page
+title: Shopping App
+description: Developed an intuitive online shopping app with MERN stack, enabling bulk group purchases and multiple retailers
+img: assets/img/12.jpg
+importance: 1
+category: software
+color: rgb(0, 80, 125)
+redirect: https://github.com/jaidevshriram/jazz
+---

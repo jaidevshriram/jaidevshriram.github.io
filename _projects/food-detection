@@ -1,0 +1,10 @@
+---
+layout: page
+title: Food Detection
+description: Ranked 5/200 on an online food identification contest, using EfficientNets with MixUp data augmentation
+img: assets/img/12.jpg
+importance: 3
+category: vision
+color: rgb(0, 80, 125)
+redirect: https://github.com/jaidevshriram/Vision-Robotics-Algorithms
+---

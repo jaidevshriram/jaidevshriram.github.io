@@ -1,0 +1,10 @@
+---
+layout: page
+title: Robot Navigation
+description: Simulated RRT and MPC planning on an indoor agent and implemented collision cone multi-agent obstacle avoidance
+img: assets/img/12.jpg
+importance: 3
+category: robotics
+color: rgb(100, 200, 255)
+redirect: https://github.com/jaidevshriram/Robotics-Navigation
+---

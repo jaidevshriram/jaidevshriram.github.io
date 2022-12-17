@@ -1,0 +1,10 @@
+---
+layout: page
+title: Citation Intent Detector
+description: Automatically detected intent behind citations in literature using transfromer models, based on the 3C SDP shared task
+img: assets/img/12.jpg
+importance: 1
+category: language
+color: rgb(0, 30, 100)
+redirect: https://github.com/jiviteshjain/why-cite/
+---

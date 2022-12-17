@@ -13,3 +13,11 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+body {
+  font-family: 'Courier New', monospace!important;
+}
+
+.container-fluid.custom-container-fluid {
+  padding: 0 50px;
+}
