@@ -18,6 +18,8 @@ body {
   font-family: 'Courier New', monospace!important;
 }
 
-.container-fluid.custom-container-fluid {
-  padding: 0 50px;
+@media (min-width:960px) {
+  .container-fluid.custom-container-fluid {
+    padding: 0 50px;
+  }
 }
