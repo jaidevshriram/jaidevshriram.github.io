@@ -26,7 +26,7 @@ My favourite pieces of tech make me feel creative, simplify difficult tasks, or 
 
 I did some research on indoor scene understanding for robot automation during my undergrad at IIIT-Hyderabad and my interest in related topics has only grown since. During my senior year, I also worked on an exciting project to <a href="https://blogs.iiit.ac.in/soundtrack-for-books/" target="_blank">build book soundtracks automatically</a> by fusing techniques in vision, language, and audio processing. Broadly, I'm interested in using ML to improve user experiences. I'm also always on the lookout for fun things to work on, so do reach out if you want to talk!
 
-My Erdős number is <a href="https://www.csauthors.net/jaidev-shriram/" target="_blank">four</a>. My <a href="https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon#Bacon_numbers" target="_blank">bacon number</a> is ∞ (happy to play an extra in a movie to fix this). 
+My Erdős number is <a href="https://www.csauthors.net/jaidev-shriram/" target="_blank">four</a>. My <a href="https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon#Bacon_numbers" target="_blank">Bacon number</a> is ∞ (happy to play an extra in a movie to fix this). 
 
 <!-- <a href="mailto:jkariyatt@ucsd.edu" class="text-danger font-weight-bold">[jkariyatt@ucsd.edu]</a> -->
 
