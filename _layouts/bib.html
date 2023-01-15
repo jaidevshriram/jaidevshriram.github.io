@@ -126,6 +126,24 @@
             {{ periodical | strip }}
           </div>
         {%- endif %}
+
+        {%- if entry.text %}
+        <div class="text-danger">
+            {{ entry.text }}
+        </div>
+        {%- endif %}
+
+        {%- if entry.press %}
+          {% assign press = entry.press | split: "; " %}
+          {%- for page in press -%}
+            <!-- {{ page }} -->
+            {% assign arr = page | split: ", " %}
+            {% if forloop.index0 == 0 %}
+              <b>Press: </b>
+            {% endif %}
+            * <a href="{{ arr[1] }}" target="_blank">{{ arr[0] }}</a>
+          {%- endfor -%}
+        {%- endif %}
         
           <!-- Links/Buttons -->
           <div class="links">
