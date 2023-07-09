@@ -38,7 +38,7 @@ jobs:
         echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
     - name: Deploy website 
       env: 
-      NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
       run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
                     --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
