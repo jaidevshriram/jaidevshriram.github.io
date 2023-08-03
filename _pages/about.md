@@ -26,7 +26,7 @@ My favourite pieces of tech make me feel creative, simplify difficult tasks, or 
 
 I'm a second-year master's student in computer science at UC San Diego, advised by <a href="https://cseweb.ucsd.edu/~ravir/" target="_blank">Prof. Ravi Ramamoorthi</a>. My research interests lately revolve around 3D generatiion using diffusion models. I'm also exploring some exciting ideas in narrative understanding with <a href="https://haijunxia.ucsd.edu/" target="_blank">Prof. Haijun Xia</a>. Previously, during my undergrad at IIIT-Hyderabad, I worked on generative music for book soundtracks using multi-modal techniques. Broadly, I'm interested in using ML to boost human creativity and investigate ways to simplify complex workflows.
 
-My Erdős number is <a href="https://www.csauthors.net/jaidev-shriram/" target="_blank">four</a>. My <a href="https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon#Bacon_numbers" target="_blank">Bacon number</a> is ∞ (happy to play an extra in a movie to fix this). 
+My Erdős number is four. My <a href="https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon#Bacon_numbers" target="_blank">Bacon number</a> is ∞ (happy to play an extra in a movie to fix this). 
 
 <!-- <a href="mailto:jkariyatt@ucsd.edu" class="text-danger font-weight-bold">[jkariyatt@ucsd.edu]</a> -->
 
