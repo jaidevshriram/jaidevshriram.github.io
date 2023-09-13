@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: What if …? Considerations For a IIIT Post Pandemic
-description: The pandemic changed things for better or worse. What lessons can we learn from these?
+description: The pandemic changed things for better or worse. What lessons can we learn?
 date: 2020-05-15
 
 authors:
