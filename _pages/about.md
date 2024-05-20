@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 <span class="h1">Hey! I'm Jaidev</span>
 
-<span class="h5"><mark class="highlight">Generative AI + 3D Vision @ UCSD</mark><span>
+<span class="h5"><mark class="highlight">3D Vision + HCI @ UCSD</mark><span>
 
 My favourite pieces of tech make me feel creative, simplify difficult tasks, or are just plain weird. If it involves computer vision and machine learning, I'm likely trying to build that tech. 
 
