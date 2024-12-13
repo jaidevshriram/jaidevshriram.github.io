@@ -20,11 +20,11 @@ social: false  # includes social icons at the bottom of the page
 
 <span class="h1">Hey! I'm Jaidev</span>
 
-<span class="h5"><mark class="highlight">3D Vision + HCI @ UCSD</mark><span>
+<span class="h5"><mark class="highlight">3D Vision + HCI</mark><span>
 
 My favourite pieces of tech make me feel creative, simplify difficult tasks, or are just plain weird. If it involves computer vision and machine learning, I'm likely trying to build that tech. 
 
-I'm a second-year master's student in computer science at UC San Diego, advised by <a href="https://cseweb.ucsd.edu/~ravir/" target="_blank">Prof. Ravi Ramamoorthi</a>. My research interests lately revolve around 3D generatiion using diffusion models. I'm also exploring some exciting ideas in narrative understanding with <a href="https://haijunxia.ucsd.edu/" target="_blank">Prof. Haijun Xia</a>. Previously, during my undergrad at IIIT-Hyderabad, I worked on generative music for book soundtracks using multi-modal techniques. Broadly, I'm interested in using ML to boost human creativity and investigate ways to simplify complex workflows.
+I graduated with a master's in computer science from UC San Diego in 2024, where I was advised by <a href="https://cseweb.ucsd.edu/~ravir/" target="_blank">Prof. Ravi Ramamoorthi</a>. My research interests revolved around 3D generation using diffusion models. I also explored some exciting ideas in AI-assisted information management with <a href="https://haijunxia.ucsd.edu/" target="_blank">Prof. Haijun Xia</a>. Previously, during my undergrad at IIIT-Hyderabad, I also worked on generative music for book soundtracks using multi-modal techniques. Broadly, I'm interested in using ML to boost human creativity and investigate ways to simplify complex workflows.
 
 My Erdős number is four. My <a href="https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon#Bacon_numbers" target="_blank">Bacon number</a> is ∞ (happy to play an extra in a movie to fix this). 
 
